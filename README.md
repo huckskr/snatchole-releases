@@ -30,7 +30,12 @@ Premium removes all ads and unlocks music mode and the widgets for **$1.99 a yea
 2. Download `Snatchole-vX.Y.Z-release.apk` and open it.
 3. If asked, allow installing apps from your browser, then tap **Install**.
 
-Requires Android 8.0 or newer. Built for Solana Mobile Seeker and submitted to the Solana dApp Store (in review).
+Requires Android 10 or newer. Built for Solana Mobile Seeker and submitted to the Solana dApp Store (in review).
+
+## Legal
+
+- [Privacy Policy](https://snatchole-backend.vercel.app/privacy)
+- [Terms of Use](https://snatchole-backend.vercel.app/terms)
 
 ## Built for the Clock In hackathon
 
